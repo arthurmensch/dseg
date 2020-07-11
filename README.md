@@ -9,13 +9,13 @@ Jelassi, S., Enrich, C. D., Scieur, D., Mensch, A., & Bruna, J. (2019). Extra-gr
 ```
 
 
-## How to install
+## Installation
 
 ```bash
 python setup.py develop
 ```
 
-## Run
+## Experiments
 
 ```bash
 cd scripts
