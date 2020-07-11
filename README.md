@@ -1,4 +1,4 @@
-# Extra-gradient with player sampling
+# Extragradient with player sampling for faster Nash equilibrium finding
 
 Training GANs and convex games with gradient extrapolation and alternation of player updates.
 
