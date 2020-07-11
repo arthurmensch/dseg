@@ -5,7 +5,7 @@ Training GANs and convex games with gradient extrapolation and alternation of pl
 Paper https://arxiv.org/abs/1905.12363
 
 ```
-Jelassi, S., Enrich, C. D., Scieur, D., Mensch, A., & Bruna, J. (2019). Extra-gradient with player sampling for provable fast convergence in n-player games. Proceedings of the International Conference on Machine Learning
+Jelassi, S., Enrich, C. D., Scieur, D., Mensch, A., & Bruna, J. (2020). Extragradient with player sampling for faster Nash equilibrium finding. Proceedings of the International Conference on Machine Learning
 ```
 
 
